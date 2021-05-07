@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2529885 */
+  src: url('iconfont.woff2?t=1620303770178') format('woff2'),
+       url('iconfont.woff?t=1620303770178') format('woff'),
+       url('iconfont.ttf?t=1620303770178') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhixianghuishou:before {
+  content: "\e61c";
+}
+
+.icon-kehuishou-jinshulei:before {
+  content: "\e61e";
+}
+
+.icon-kehuishou-bolilei:before {
+  content: "\e61f";
+}
+
+.icon-shilaji:before {
+  content: "\e622";
+}
+
+.icon-ganlaji:before {
+  content: "\e623";
+}
+
